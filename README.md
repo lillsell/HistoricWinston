@@ -1,1 +1,1 @@
-# HistoricWinston
+This is a map showing the different historic stites in winston salem, both in point form and by the distiricts of Winston Salem. Data was taken from the National Registar of Historic Places, and Polygon data was created by Lilli Sellers. This map was made as part of a class at Appalachian State University, for the Webmapping course.
